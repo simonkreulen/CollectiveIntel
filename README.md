@@ -1,0 +1,2 @@
+# CollectiveIntel
+Groepsopdracht Collectieve Intelligentie
